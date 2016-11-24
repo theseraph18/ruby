@@ -11,13 +11,13 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://1.2.3.4/140/WiFiManager.ipa</string>
+					<string>http://1.2.3.4/140/wddsd.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.unicom.zq.WiFiManager</string>
+				<string>com.unicom.zq.wdd</string>
 				<key>bundle-version</key>
 				<string>1.0.0111</string>
 				<key>kind</key>
